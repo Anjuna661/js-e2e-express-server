@@ -11,3 +11,4 @@ pool:
 
 steps:
 - template: templates/include-npm-steps.yml
+- template: templates/npm-audit-steps.yml
